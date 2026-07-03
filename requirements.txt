@@ -1,0 +1,17 @@
+# ScreenVision dependencies
+#
+# GPU host (runs screen_vision.py):
+gradio
+pillow
+numpy
+matplotlib
+
+# Target PC (runs snap_server.py):
+# pillow  (already above)
+mss
+
+# Also required on the GPU host: a running Ollama with a vision model
+# (default: qwen3vl-32b-instruct) — installed separately, not via pip.
+
+# Optional (target PC): visible tray indicator when the screen is being captured
+pystray
