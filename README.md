@@ -188,5 +188,5 @@ scrubbed it for release, and added the review notes above.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Provided "AS IS", without warranty; use is at your
+Proprietary — see [LICENSE](LICENSE). Licensed under the **Ephemeral / Proprietary License** (All Rights Reserved with a Sharing Exception). Provided "AS IS", without warranty; use is at your
 own risk and responsibility (see "Responsibility & liability" above).
