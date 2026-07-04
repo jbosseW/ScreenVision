@@ -1,21 +1,41 @@
-MIT License
+Ephemeral / Proprietary License
+(All Rights Reserved with a Sharing Exception)
 
-Copyright (c) 2026 MidwestMysteryMeat
+Copyright (c) 2026 MidwestMysteryMeat. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Ownership. This software and all associated source code, assets, and
+   documentation (the "Work") are the exclusive property of MidwestMysteryMeat
+   (the "Author"). All rights not expressly granted below are reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Sharing Exception. The Author grants you a limited, personal, non-exclusive,
+   non-transferable, royalty-free permission to view, download, copy, and share
+   verbatim, unmodified copies of the Work for private, non-commercial,
+   educational, or evaluation purposes only, provided that:
+     (a) this License and all copyright notices are retained in full in every
+         copy; and
+     (b) no derivative works are created, distributed, or published; and
+     (c) the Work, in whole or in part, is not used for any commercial purpose,
+         nor incorporated into any product or service, without the Author's
+         prior written permission.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Ephemeral Grant. The Sharing Exception is ephemeral and revocable. The Author
+   may modify or revoke it at any time, for any reason or for no reason, at the
+   Author's sole discretion. Upon revocation, or upon the Author ceasing to
+   publish the Work, all permissions granted herein terminate immediately, and
+   you must cease all use and destroy all copies in your possession or control.
+
+4. No Other Rights. No rights to sell, sublicense, relicense, or otherwise
+   commercially exploit the Work are granted. No trademark, patent, or naming
+   rights are granted. Any use outside the scope of this License requires the
+   Author's prior written consent.
+
+5. Third-Party Components. The Work may include third-party components governed
+   by their own licenses; those components remain subject to their respective
+   terms, which are not superseded by this License.
+
+6. No Warranty. THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO
+   EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY,
+   WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR
+   IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
